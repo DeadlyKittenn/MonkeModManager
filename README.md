@@ -9,35 +9,13 @@
 🔧 Monke Mod Manager Full Setup Guide
 Follow these steps to properly install and run Monke Mod Manager with all necessary preparations:
 
-📥 Step 1: Download Monke Mod Manager
-Go to the official GitHub repository and download the latest .exe file from the Releases section.
-
-🛡️ Step 2: Disable Windows Defender (Optional but Recommended)
+📥 Step 1: Disable Windows Defender (Optional but Recommended)
 Before launching the .exe, it's recommended to temporarily disable Windows Defender to avoid false-positive warnings:
 
-Open Windows Security → Virus & threat protection
-
-Click Manage settings
-
-Turn off Real-time protection and Cloud-delivered protection
-
-This ensures smoother installation and avoids file blocking.
-
-🗜️ Step 3: Install WinRAR
-Some mods or additional files might come in .rar format.
-If you don’t have WinRAR, download and install it from win-rar.com — it's required for extracting .rar archives.
-
-🔓 Step 4: Extract with Password
-Open the downloaded archive using WinRAR.
-When prompted, enter the password: monkemodmanager
-
-🧰 Step 5: Select Your Mods
+🧰 Step 2: Select Your Mods
 Tick the boxes for the mods you want to install (e.g., BananaHook, Utils, Air Jump, etc.).
 Then click Install / Update — the tool will download and install them for you.
 
-🔁 Step 6: Launch Gorilla Tag
-Start the game as usual — your selected mods should now be active.
-You can reopen Monke Mod Manager anytime to add/remove/update your mods.
 
 
 
